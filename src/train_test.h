@@ -1,5 +1,5 @@
-#ifndef __IMPORT_H
-#define __IMPORT_H
+#ifndef __TRAIN_TEST_H
+#define __TRAIN_TEST_H
 #include <iostream>
 #include <fstream>
 #include <string>
